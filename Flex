@@ -1,0 +1,102 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+	<style>
+/*		display flex*/
+	#flexcontainer{
+		background:#6ad;
+		text-align:center;
+		display:flex;
+		flex-wrap:wrap;
+		justify-content:center;
+		align-items:center;
+		align-content: center;
+		height:100vh;
+	}
+	.flexcontent{
+		border:1px #fff solid;
+		background:#f73;
+		color:#fff;
+		padding:5px;
+		width:50px;
+		display:inline-block;
+	}
+</style>
+</head>
+<div class="container">
+  <div class="medium-box">figure</div>
+  <div class="small-box">div 1</div>
+  <div class="small-box">div 2</div>
+</div>
+<body>
+	<div class="clr">
+		<div class="section w50">
+			<p> Column one</p>
+        </div>
+		<div class=section "w50">
+		<p> Column two</p>
+		</div>
+	</div>
+							   
+			<div class="clr">
+		<div class="section w50">
+			<p> Column one</p>
+        </div>
+		<div class=section w50">
+		<p> Column two</p>
+		</div></div>
+	<div class="clr">
+		<div class="section w50">
+			<p> Column one</p>
+        </div>
+		<div class=section w50">
+		<p> Column two</p>
+		</div></div>
+	<div class="clr">
+		<div class="section w50">
+			<p> Column one</p>
+        </div>
+		<div class=section w50">
+		<p> Column two</p>
+		</div></div>
+	<div class="clr">
+		<div class="section w50">
+			<p> Column one</p>
+        </div>
+		<div class=section w50">
+		<p> Column two</p>
+		</div></div>
+	<div class="clr">
+		<div class="section w50">
+			<p> Column one</p>
+        </div>
+		<div class=section w50">
+		<p> Column two</p>
+		</div></div>
+	<div class="clr">
+		<div class="section w50">
+			<p> Column one</p>
+        </div>
+		<div class=section w50">
+		<p> Column two</p>
+		</div></div>
+	<div class="clr">
+		<div class="section w50">
+			<p> Column one</p>
+        </div>
+		<div class=section w50">
+		<p> Column two</p>
+		</div>
+		</div>
+	<div class="clr">
+		<div class="section w50">
+			<p> Column one</p>
+        </div>
+		<div class=section w50">
+		<p> Column two</p>
+		</div>
+	</div>
+</body>
+</html>
