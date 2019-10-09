@@ -109,7 +109,14 @@
         </div>
 		<div class=section w50">
 		<p> Column two</p>
-		</div></div>
+		</div>
+		<div class="section w50">
+			<p> Column three</p>
+        </div>
+		
+							   
+		</div>
+	</div>
 	<div class="container-1">
 		<div class="section w50">
 			<p> Column one</p>
@@ -117,6 +124,14 @@
 		<div class=section w50">
 		<p> Column two</p>
 		</div>
+		<div class="section w50">
+			<p> Column three</p>
+        </div>
+		<div class=section w50">
+		<p> Column four</p>
+		</div>
+							   
+		</div>					   
 							   
 		</div>
 	<div class="container-1">
@@ -125,6 +140,22 @@
         </div>
 		<div class=section w50">
 		<p> Column two</p>
+		</div>
+		<div class="section w50">
+			<p> Column three</p>
+        </div>
+		<div class=section w50">
+		<p> Column four</p>
+		</div>
+		<div class="section w50">
+			<p> Column five</p>
+        </div>
+		<div class=section w50">
+		<p> Column six</p>
+		</div>
+							   
+		</div>					   
+							   
 		</div>
 	</div>
 </body>
